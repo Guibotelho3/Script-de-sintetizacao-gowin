@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="TreeLUT" Lut="30" T_Alu="95(0)" T_Lut="557(30)">
+ <SubModule name="quantization_inst" Lut="1" T_Lut="1(1)"/>
+ <SubModule name="class0_tree0_inst" Lut="14" T_Lut="14(14)"/>
+ <SubModule name="class0_tree1_inst" Lut="28" T_Lut="28(28)"/>
+ <SubModule name="class0_tree2_inst" Lut="54" T_Lut="54(54)"/>
+ <SubModule name="class0_tree3_inst" Lut="22" T_Lut="22(22)"/>
+ <SubModule name="class0_tree4_inst" Lut="93" T_Lut="93(93)"/>
+ <SubModule name="class0_tree5_inst" Lut="67" T_Lut="67(67)"/>
+ <SubModule name="class0_tree6_inst" Lut="72" T_Lut="72(72)"/>
+ <SubModule name="class1_tree1_inst" Lut="15" T_Lut="15(15)"/>
+ <SubModule name="class1_tree2_inst" Lut="50" T_Lut="50(50)"/>
+ <SubModule name="class1_tree3_inst" Lut="7" T_Lut="7(7)"/>
+ <SubModule name="class1_tree4_inst" Lut="30" T_Lut="30(30)"/>
+ <SubModule name="class1_tree5_inst" Lut="26" T_Lut="26(26)"/>
+ <SubModule name="class1_tree6_inst" Lut="40" T_Lut="40(40)"/>
+ <SubModule name="class0_adder_inst" Alu="46" T_Alu="46(46)"/>
+ <SubModule name="class1_adder_inst" Alu="49" Lut="8" T_Alu="49(49)" T_Lut="8(8)"/>
+</Module>

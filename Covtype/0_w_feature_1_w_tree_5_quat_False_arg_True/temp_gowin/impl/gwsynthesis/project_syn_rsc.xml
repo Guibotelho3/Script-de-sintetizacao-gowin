@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="TreeLUT" T_Alu="238(0)" T_Lut="2443(0)">
+ <SubModule name="class0_tree0_inst" Lut="53" T_Lut="53(53)"/>
+ <SubModule name="class0_tree1_inst" Lut="29" T_Lut="29(29)"/>
+ <SubModule name="class0_tree2_inst" Lut="26" T_Lut="26(26)"/>
+ <SubModule name="class0_tree3_inst" Lut="19" T_Lut="19(19)"/>
+ <SubModule name="class0_tree4_inst" Lut="30" T_Lut="30(30)"/>
+ <SubModule name="class0_tree5_inst" Lut="15" T_Lut="15(15)"/>
+ <SubModule name="class0_tree6_inst" Lut="14" T_Lut="14(14)"/>
+ <SubModule name="class1_tree0_inst" Lut="68" T_Lut="68(68)"/>
+ <SubModule name="class1_tree1_inst" Lut="49" T_Lut="49(49)"/>
+ <SubModule name="class1_tree2_inst" Lut="72" T_Lut="72(72)"/>
+ <SubModule name="class1_tree3_inst" Lut="59" T_Lut="59(59)"/>
+ <SubModule name="class1_tree4_inst" Lut="61" T_Lut="61(61)"/>
+ <SubModule name="class1_tree5_inst" Lut="64" T_Lut="64(64)"/>
+ <SubModule name="class1_tree6_inst" Lut="36" T_Lut="36(36)"/>
+ <SubModule name="class2_tree0_inst" Lut="92" T_Lut="92(92)"/>
+ <SubModule name="class2_tree1_inst" Lut="61" T_Lut="61(61)"/>
+ <SubModule name="class2_tree2_inst" Lut="64" T_Lut="64(64)"/>
+ <SubModule name="class2_tree3_inst" Lut="25" T_Lut="25(25)"/>
+ <SubModule name="class2_tree4_inst" Lut="6" T_Lut="6(6)"/>
+ <SubModule name="class2_tree5_inst" Lut="6" T_Lut="6(6)"/>
+ <SubModule name="class2_tree6_inst" Lut="8" T_Lut="8(8)"/>
+ <SubModule name="class3_tree0_inst" Lut="9" T_Lut="9(9)"/>
+ <SubModule name="class3_tree1_inst" Lut="30" T_Lut="30(30)"/>
+ <SubModule name="class3_tree2_inst" Lut="30" T_Lut="30(30)"/>
+ <SubModule name="class3_tree3_inst" Lut="32" T_Lut="32(32)"/>
+ <SubModule name="class3_tree4_inst" Lut="36" T_Lut="36(36)"/>
+ <SubModule name="class3_tree5_inst" Lut="31" T_Lut="31(31)"/>
+ <SubModule name="class3_tree6_inst" Lut="28" T_Lut="28(28)"/>
+ <SubModule name="class4_tree0_inst" Lut="14" T_Lut="14(14)"/>
+ <SubModule name="class4_tree1_inst" Lut="52" T_Lut="52(52)"/>
+ <SubModule name="class4_tree2_inst" Lut="44" T_Lut="44(44)"/>
+ <SubModule name="class4_tree3_inst" Lut="63" T_Lut="63(63)"/>
+ <SubModule name="class4_tree4_inst" Lut="56" T_Lut="56(56)"/>
+ <SubModule name="class4_tree5_inst" Lut="16" T_Lut="16(16)"/>
+ <SubModule name="class4_tree6_inst" Lut="5" T_Lut="5(5)"/>
+ <SubModule name="class5_tree0_inst" Lut="17" T_Lut="17(17)"/>
+ <SubModule name="class5_tree1_inst" Lut="59" T_Lut="59(59)"/>
+ <SubModule name="class5_tree2_inst" Lut="56" T_Lut="56(56)"/>
+ <SubModule name="class5_tree3_inst" Lut="30" T_Lut="30(30)"/>
+ <SubModule name="class5_tree4_inst" Lut="10" T_Lut="10(10)"/>
+ <SubModule name="class5_tree5_inst" Lut="9" T_Lut="9(9)"/>
+ <SubModule name="class5_tree6_inst" Lut="10" T_Lut="10(10)"/>
+ <SubModule name="class6_tree0_inst" Lut="83" T_Lut="83(83)"/>
+ <SubModule name="class6_tree1_inst" Lut="76" T_Lut="76(76)"/>
+ <SubModule name="class6_tree2_inst" Lut="64" T_Lut="64(64)"/>
+ <SubModule name="class6_tree3_inst" Lut="58" T_Lut="58(58)"/>
+ <SubModule name="class6_tree4_inst" Lut="63" T_Lut="63(63)"/>
+ <SubModule name="class6_tree5_inst" Lut="58" T_Lut="58(58)"/>
+ <SubModule name="class6_tree6_inst" Lut="43" T_Lut="43(43)"/>
+ <SubModule name="class0_adder_inst" Alu="28" Lut="32" T_Alu="28(28)" T_Lut="32(32)"/>
+ <SubModule name="class1_adder_inst" Alu="24" Lut="19" T_Alu="24(24)" T_Lut="19(19)"/>
+ <SubModule name="class2_adder_inst" Alu="25" Lut="33" T_Alu="25(25)" T_Lut="33(33)"/>
+ <SubModule name="class3_adder_inst" Alu="26" Lut="48" T_Alu="26(26)" T_Lut="48(48)"/>
+ <SubModule name="class4_adder_inst" Alu="28" Lut="49" T_Alu="28(28)" T_Lut="49(49)"/>
+ <SubModule name="class5_adder_inst" Alu="27" Lut="65" T_Alu="27(27)" T_Lut="65(65)"/>
+ <SubModule name="class6_adder_inst" Alu="38" Lut="1" T_Alu="38(38)" T_Lut="1(1)"/>
+ <SubModule name="argmax_inst" Alu="42" Lut="257" T_Alu="42(42)" T_Lut="257(257)"/>
+</Module>

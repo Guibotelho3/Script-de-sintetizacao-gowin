@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="TreeLUT" Lut="27" T_Alu="6(0)" T_Lut="513(27)">
+ <SubModule name="class0_tree0_inst" Lut="101" T_Lut="101(101)"/>
+ <SubModule name="class0_tree2_inst" Lut="56" T_Lut="56(56)"/>
+ <SubModule name="class1_tree2_inst" Lut="38" T_Lut="38(38)"/>
+ <SubModule name="class0_adder_inst" Alu="3" Lut="163" T_Alu="3(3)" T_Lut="163(163)"/>
+ <SubModule name="class1_adder_inst" Alu="3" Lut="125" T_Alu="3(3)" T_Lut="125(125)"/>
+ <SubModule name="argmax_inst" Lut="3" T_Lut="3(3)"/>
+</Module>

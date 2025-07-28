@@ -1,0 +1,3 @@
+dataset,w_feature,w_tree,quantization,argmax,LUTs,accuracy
+Adult,3,2,False,True,502,N/A
+Adult,3,3,True,False,321,N/A

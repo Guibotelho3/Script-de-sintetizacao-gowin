@@ -1,0 +1,4 @@
+Reading netlist file: "C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_1_w_tree_3_quat_False_arg_False\temp_gowin\impl\gwsynthesis\project.vg"
+Parsing netlist file "C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_1_w_tree_3_quat_False_arg_False\temp_gowin\impl\gwsynthesis\project.vg" completed
+ERROR  (PA2024) : The number(93) of ports exceeds the resource limit 53 regular I/Os and 1 RECONFIG_N I/Os of current device, you can also use 4 JTAG, 4 SSPI and 4 MSPI I/Os by configuring Dual-Purpose Pin as regular I/Os.
+NOTE  (PA0005) : Processing netlist completed with errors

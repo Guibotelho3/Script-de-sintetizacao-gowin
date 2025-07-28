@@ -1,0 +1,63 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_adder.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree0.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree1.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree2.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree3.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree4.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree5.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree6.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_adder.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree0.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree1.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree2.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree3.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree4.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree5.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree6.v'
+Analyzing Verilog file 'C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v'
+Compiling module 'TreeLUT'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v":1)
+Compiling module 'class0_tree0'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree0.v":1)
+Compiling module 'class0_tree1'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree1.v":1)
+Compiling module 'class0_tree2'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree2.v":1)
+Compiling module 'class0_tree3'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree3.v":1)
+Compiling module 'class0_tree4'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree4.v":1)
+Compiling module 'class0_tree5'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree5.v":1)
+Compiling module 'class0_tree6'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_tree6.v":1)
+Compiling module 'class1_tree0'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree0.v":1)
+Compiling module 'class1_tree1'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree1.v":1)
+Compiling module 'class1_tree2'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree2.v":1)
+Compiling module 'class1_tree3'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree3.v":1)
+Compiling module 'class1_tree4'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree4.v":1)
+Compiling module 'class1_tree5'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree5.v":1)
+Compiling module 'class1_tree6'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_tree6.v":1)
+Compiling module 'class0_adder'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class0_adder.v":1)
+Compiling module 'class1_adder'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\class1_adder.v":1)
+Compiling module 'argmax'("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v":119)
+NOTE  (EX0101) : Current top module is "TreeLUT"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "class0_tree0" instantiated to "class0_tree0_inst" is swept in optimizing("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v":94)
+WARN  (NL0002) : The module "class0_tree3" instantiated to "class0_tree3_inst" is swept in optimizing("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v":97)
+WARN  (NL0002) : The module "class0_tree4" instantiated to "class0_tree4_inst" is swept in optimizing("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v":98)
+WARN  (NL0002) : The module "class1_tree3" instantiated to "class1_tree3_inst" is swept in optimizing("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v":104)
+WARN  (NL0002) : The module "class1_tree4" instantiated to "class1_tree4_inst" is swept in optimizing("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v":105)
+WARN  (NL0002) : The module "class1_tree5" instantiated to "class1_tree5_inst" is swept in optimizing("C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v":106)
+[95%] Generate netlist file "C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\temp_gowin\impl\gwsynthesis\project.vg" completed
+[100%] Generate report file "C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_3_w_tree_2_quat_False_arg_True\temp_gowin\impl\gwsynthesis\project_syn.rpt.html" completed
+GowinSynthesis finish

@@ -1,0 +1,145 @@
+module TreeLUT(input wire [53:0] i, output wire [2:0] o);
+
+wire [48:0] treelut_output;
+
+wire [50:0] binary_features;
+
+assign binary_features[0] = (i[0:0] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[1] = (i[1:1] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[2] = (i[2:2] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[3] = (i[3:3] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[4] = (i[4:4] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[5] = (i[5:5] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[6] = (i[6:6] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[7] = (i[7:7] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[8] = (i[8:8] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[9] = (i[9:9] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[10] = (i[10:10] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[11] = (i[11:11] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[12] = (i[12:12] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[13] = (i[13:13] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[14] = (i[14:14] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[15] = (i[15:15] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[16] = (i[16:16] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[17] = (i[19:19] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[18] = (i[20:20] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[19] = (i[21:21] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[20] = (i[22:22] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[21] = (i[23:23] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[22] = (i[24:24] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[23] = (i[26:26] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[24] = (i[27:27] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[25] = (i[28:28] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[26] = (i[29:29] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[27] = (i[30:30] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[28] = (i[31:31] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[29] = (i[32:32] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[30] = (i[33:33] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[31] = (i[34:34] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[32] = (i[35:35] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[33] = (i[36:36] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[34] = (i[37:37] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[35] = (i[38:38] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[36] = (i[39:39] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[37] = (i[40:40] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[38] = (i[41:41] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[39] = (i[42:42] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[40] = (i[43:43] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[41] = (i[44:44] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[42] = (i[45:45] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[43] = (i[46:46] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[44] = (i[47:47] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[45] = (i[48:48] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[46] = (i[49:49] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[47] = (i[50:50] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[48] = (i[51:51] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[49] = (i[52:52] < (1'd1))? 1'b1 : 1'b0;
+assign binary_features[50] = (i[53:53] < (1'd1))? 1'b1 : 1'b0;
+
+
+wire [153:0] trees_output;
+
+class0_tree0 class0_tree0_inst(.i(binary_features), .o(trees_output[3:0]));
+class0_tree1 class0_tree1_inst(.i(binary_features), .o(trees_output[7:4]));
+class0_tree2 class0_tree2_inst(.i(binary_features), .o(trees_output[10:8]));
+class0_tree3 class0_tree3_inst(.i(binary_features), .o(trees_output[13:11]));
+class0_tree4 class0_tree4_inst(.i(binary_features), .o(trees_output[16:14]));
+class0_tree5 class0_tree5_inst(.i(binary_features), .o(trees_output[19:17]));
+class0_tree6 class0_tree6_inst(.i(binary_features), .o(trees_output[21:20]));
+class1_tree0 class1_tree0_inst(.i(binary_features), .o(trees_output[25:22]));
+class1_tree1 class1_tree1_inst(.i(binary_features), .o(trees_output[28:26]));
+class1_tree2 class1_tree2_inst(.i(binary_features), .o(trees_output[31:29]));
+class1_tree3 class1_tree3_inst(.i(binary_features), .o(trees_output[34:32]));
+class1_tree4 class1_tree4_inst(.i(binary_features), .o(trees_output[37:35]));
+class1_tree5 class1_tree5_inst(.i(binary_features), .o(trees_output[40:38]));
+class1_tree6 class1_tree6_inst(.i(binary_features), .o(trees_output[43:41]));
+class2_tree0 class2_tree0_inst(.i(binary_features), .o(trees_output[47:44]));
+class2_tree1 class2_tree1_inst(.i(binary_features), .o(trees_output[50:48]));
+class2_tree2 class2_tree2_inst(.i(binary_features), .o(trees_output[54:51]));
+class2_tree3 class2_tree3_inst(.i(binary_features), .o(trees_output[57:55]));
+class2_tree4 class2_tree4_inst(.i(binary_features), .o(trees_output[59:58]));
+class2_tree5 class2_tree5_inst(.i(binary_features), .o(trees_output[61:60]));
+class2_tree6 class2_tree6_inst(.i(binary_features), .o(trees_output[64:62]));
+class3_tree0 class3_tree0_inst(.i(binary_features), .o(trees_output[68:65]));
+class3_tree1 class3_tree1_inst(.i(binary_features), .o(trees_output[71:69]));
+class3_tree2 class3_tree2_inst(.i(binary_features), .o(trees_output[74:72]));
+class3_tree3 class3_tree3_inst(.i(binary_features), .o(trees_output[77:75]));
+class3_tree4 class3_tree4_inst(.i(binary_features), .o(trees_output[80:78]));
+class3_tree5 class3_tree5_inst(.i(binary_features), .o(trees_output[82:81]));
+class3_tree6 class3_tree6_inst(.i(binary_features), .o(trees_output[85:83]));
+class4_tree0 class4_tree0_inst(.i(binary_features), .o(trees_output[89:86]));
+class4_tree1 class4_tree1_inst(.i(binary_features), .o(trees_output[92:90]));
+class4_tree2 class4_tree2_inst(.i(binary_features), .o(trees_output[94:93]));
+class4_tree3 class4_tree3_inst(.i(binary_features), .o(trees_output[97:95]));
+class4_tree4 class4_tree4_inst(.i(binary_features), .o(trees_output[101:98]));
+class4_tree5 class4_tree5_inst(.i(binary_features), .o(trees_output[104:102]));
+class4_tree6 class4_tree6_inst(.i(binary_features), .o(trees_output[106:105]));
+class5_tree0 class5_tree0_inst(.i(binary_features), .o(trees_output[110:107]));
+class5_tree1 class5_tree1_inst(.i(binary_features), .o(trees_output[113:111]));
+class5_tree2 class5_tree2_inst(.i(binary_features), .o(trees_output[117:114]));
+class5_tree3 class5_tree3_inst(.i(binary_features), .o(trees_output[120:118]));
+class5_tree4 class5_tree4_inst(.i(binary_features), .o(trees_output[123:121]));
+class5_tree5 class5_tree5_inst(.i(binary_features), .o(trees_output[126:124]));
+class5_tree6 class5_tree6_inst(.i(binary_features), .o(trees_output[128:127]));
+class6_tree0 class6_tree0_inst(.i(binary_features), .o(trees_output[132:129]));
+class6_tree1 class6_tree1_inst(.i(binary_features), .o(trees_output[136:133]));
+class6_tree2 class6_tree2_inst(.i(binary_features), .o(trees_output[139:137]));
+class6_tree3 class6_tree3_inst(.i(binary_features), .o(trees_output[143:140]));
+class6_tree4 class6_tree4_inst(.i(binary_features), .o(trees_output[146:144]));
+class6_tree5 class6_tree5_inst(.i(binary_features), .o(trees_output[150:147]));
+class6_tree6 class6_tree6_inst(.i(binary_features), .o(trees_output[153:151]));
+
+class0_adder class0_adder_inst(.i(trees_output[21:0]), .o(treelut_output[6:0]));
+class1_adder class1_adder_inst(.i(trees_output[43:22]), .o(treelut_output[13:7]));
+class2_adder class2_adder_inst(.i(trees_output[64:44]), .o(treelut_output[20:14]));
+class3_adder class3_adder_inst(.i(trees_output[85:65]), .o(treelut_output[27:21]));
+class4_adder class4_adder_inst(.i(trees_output[106:86]), .o(treelut_output[34:28]));
+class5_adder class5_adder_inst(.i(trees_output[128:107]), .o(treelut_output[41:35]));
+class6_adder class6_adder_inst(.i(trees_output[153:129]), .o(treelut_output[48:42]));
+
+
+argmax argmax_inst(treelut_output, o);
+
+
+endmodule
+
+
+module argmax(input wire [48:0] i, output wire [2:0] o);
+
+wire [6:0] sum [0:6];
+assign sum[0] = i[6:0];
+assign sum[1] = i[13:7];
+assign sum[2] = i[20:14];
+assign sum[3] = i[27:21];
+assign sum[4] = i[34:28];
+assign sum[5] = i[41:35];
+assign sum[6] = i[48:42];
+
+assign o = ((sum[0] >= sum[1]) & (sum[0] >= sum[2]) & (sum[0] >= sum[3]) & (sum[0] >= sum[4]) & (sum[0] >= sum[5]) & (sum[0] >= sum[6])) ? 3'd0 :
+ ((sum[1] >= sum[0]) & (sum[1] >= sum[2]) & (sum[1] >= sum[3]) & (sum[1] >= sum[4]) & (sum[1] >= sum[5]) & (sum[1] >= sum[6])) ? 3'd1 :
+ ((sum[2] >= sum[0]) & (sum[2] >= sum[1]) & (sum[2] >= sum[3]) & (sum[2] >= sum[4]) & (sum[2] >= sum[5]) & (sum[2] >= sum[6])) ? 3'd2 :
+ ((sum[3] >= sum[0]) & (sum[3] >= sum[1]) & (sum[3] >= sum[2]) & (sum[3] >= sum[4]) & (sum[3] >= sum[5]) & (sum[3] >= sum[6])) ? 3'd3 :
+ ((sum[4] >= sum[0]) & (sum[4] >= sum[1]) & (sum[4] >= sum[2]) & (sum[4] >= sum[3]) & (sum[4] >= sum[5]) & (sum[4] >= sum[6])) ? 3'd4 :
+ ((sum[5] >= sum[0]) & (sum[5] >= sum[1]) & (sum[5] >= sum[2]) & (sum[5] >= sum[3]) & (sum[5] >= sum[4]) & (sum[5] >= sum[6])) ? 3'd5 :
+ 3'd6;
+endmodule

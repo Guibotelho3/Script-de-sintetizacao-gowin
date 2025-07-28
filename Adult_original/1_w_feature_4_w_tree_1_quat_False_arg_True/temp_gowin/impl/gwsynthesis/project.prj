@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-18" package="QFN88" speed="8" partNumber="GW2A-LV18QN88C8/I7"/>
+    <FileList>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\class0_adder.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\class0_tree0.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\class0_tree1.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\class0_tree2.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\class0_tree3.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\class0_tree4.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\class0_tree5.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\class0_tree6.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\TreeLUT\verilog\TreeLUT.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="include_path" value="C:/Users/Guilherme/Desktop/aaa/Adult/1_w_feature_4_w_tree_1_quat_False_arg_True/temp_gowin"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\Guilherme\Desktop\aaa\Adult\1_w_feature_4_w_tree_1_quat_False_arg_True\temp_gowin\impl\gwsynthesis\project.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="top_module" value="TreeLUT"/>
+        <Option type="vcc" value="1.0"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

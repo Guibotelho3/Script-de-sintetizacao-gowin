@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2A-18" package="QFN88" speed="8" partNumber="GW2A-LV18QN88C8/I7"/>
+    <FileList>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass0_adder.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass0_tree0.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass0_tree1.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass0_tree2.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass0_tree3.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass0_tree4.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass0_tree5.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass0_tree6.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass1_adder.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass1_tree0.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass1_tree1.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass1_tree2.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass1_tree3.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass1_tree4.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass1_tree5.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass1_tree6.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass2_adder.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass2_tree0.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass2_tree1.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass2_tree2.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass2_tree3.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass2_tree4.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass2_tree5.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass2_tree6.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass3_adder.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass3_tree0.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass3_tree1.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass3_tree2.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass3_tree3.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass3_tree4.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass3_tree5.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass3_tree6.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass4_adder.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass4_tree0.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass4_tree1.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass4_tree2.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass4_tree3.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass4_tree4.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass4_tree5.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass4_tree6.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass5_adder.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass5_tree0.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass5_tree1.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass5_tree2.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass5_tree3.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass5_tree4.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass5_tree5.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass5_tree6.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass6_adder.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass6_tree0.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass6_tree1.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass6_tree2.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass6_tree3.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass6_tree4.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass6_tree5.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogclass6_tree6.v" type="verilog"/>
+        <File path="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\UsersGuilhermeDesktopaaCovtype��_w_feature_8_w_tree_6_quat_False_arg_FalseTreeLUTerilogTreeLUT.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="include_path" value="C:/Users/Guilherme/Desktop/aaa/Covtype/0_w_feature_8_w_tree_6_quat_False_arg_False/temp_gowin"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\Guilherme\Desktop\aaa\Covtype\0_w_feature_8_w_tree_6_quat_False_arg_False\temp_gowin\impl\gwsynthesis\project.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="top_module" value="TreeLUT"/>
+        <Option type="vcc" value="1.0"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

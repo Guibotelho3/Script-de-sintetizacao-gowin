@@ -1,0 +1,52 @@
+module class0_tree6(input wire [102:0] i, output wire [2:0] o);
+
+wire [2:0] new_1;
+wire [2:0] new_3;
+wire [2:0] new_5;
+wire [2:0] new_6;
+wire [2:0] new_7;
+wire [2:0] new_9;
+wire [2:0] new_10;
+wire [2:0] new_11;
+wire [2:0] new_12;
+wire [2:0] new_13;
+wire [2:0] new_14;
+wire [2:0] new_15;
+wire [2:0] new_16;
+wire [2:0] new_17;
+wire [2:0] new_18;
+wire [2:0] new_19;
+wire [2:0] new_20;
+wire [2:0] new_21;
+wire [2:0] new_24;
+wire [2:0] new_25;
+wire [2:0] new_26;
+wire [2:0] new_27;
+wire [2:0] new_28;
+assign new_28 = i[29] ? 2 : 0;
+assign new_27 = i[10] ? 3 : 2;
+assign new_26 = i[58] ? 0 : 3;
+assign new_25 = i[28] ? 4 : 3;
+assign new_24 = i[5] ? 3 : 1;
+assign new_21 = i[28] ? 0 : 0;
+assign new_20 = i[54] ? 2 : 3;
+assign new_19 = i[4] ? 1 : 1;
+assign new_18 = i[99] ? 1 : 2;
+assign new_17 = i[76] ? 1 : 0;
+assign new_16 = i[51] ? new_27 : new_28;
+assign new_15 = i[4] ? new_25 : new_26;
+assign new_14 = i[1] ? 0 : new_24;
+assign new_13 = i[6] ? new_21 : 1;
+assign new_12 = i[92] ? new_19 : new_20;
+assign new_11 = i[1] ? new_17 : new_18;
+assign new_10 = i[16] ? new_15 : new_16;
+assign new_9 = i[29] ? new_13 : new_14;
+assign new_7 = i[100] ? new_11 : new_12;
+assign new_6 = i[43] ? new_9 : new_10;
+assign new_5 = i[65] ? new_7 : 0;
+assign new_3 = i[86] ? new_5 : new_6;
+assign new_1 = i[66] ? new_3 : 0;
+assign o = i[102] ? new_1 : 0;
+
+
+endmodule
