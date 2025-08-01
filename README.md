@@ -28,6 +28,21 @@ Se for necessário, também realiza a criação de um buffer baseado na quantida
 - **`processar_combinacao()`**  
   Função principal que procura por pastas chamadas `"verilog"` dentro de `"TreeLUT"` para montar os caminhos que levam aos arquivos `.v` e, além disso, verifica se será necessário fazer a criação do buffer.
 
+# Esquema de arquivos que o script considera:
+automacao_sintese_gowin/
+│── Covtype/ 
+  │──0_w_feature_1_w_tree_3_quat_False_arg_False/
+  │──0_w_feature_1_w_tree_3_quat_False_arg_True/
+                                .
+                                .
+  │──0_w_feature_2_w_tree_3_quat_False_arg_False/
+     │──TreeLUT/
+        │──verilog/
+        │──testbench/
+           │──temp_gowin/
+           │──result.v
+│── Adult/
+│── Drybeans/ 
 ---
 
 💡 *Este projeto foi criado para automação de testes e análises com sintetização de módulos Verilog em dispositivos Gowin FPGA. Ideal para fluxos que exigem geração de buffers e extração precisa de parâmetros pós-síntese.*
