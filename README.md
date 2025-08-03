@@ -1,6 +1,6 @@
-# 🔧 Verilog Synthesizer com Buffer Automático para Gowin FPGA
+# 🔧 Verilog Synthesizer with Automatic Buffer for Gowin FPGA
 
-Script em Python que busca arquivos Verilog e realiza a sintetização deles no Gowin.
+Script em Python que busca arquivos Verilog em diretórios e realiza a sintetização deles no Gowin.
 
 Se for necessário, também realiza a criação de um buffer baseado na quantidade de bits de entrada e saída para o caso do erro de ports I/O excedentes no FPGA.
 
